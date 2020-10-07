@@ -4,7 +4,7 @@
 Este ejercicios ser realizará en parejas.
 	
 - Alumno1 crea un repositorio. 
-- Alumno1 añade como colaborador a Alumno2.
+- Alumno1 añade como colaborador a Alumno2 y usuario de github del profesor.
 - Alumno2 clona el repositorio.
 - Alumno1 crea un archivo receta1.txt
 - Alumno1 hace commit y push
