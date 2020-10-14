@@ -1,5 +1,5 @@
-* Jesùs Cabello Montiel - Mi nombre de GitHub es [zulit12](https://github.com/zulit12).
-* 
+* Jesús Cabello Montiel - [zulit12](https://github.com/zulit12).
+* Rubén Mata Castro - [rmatcas99](https://github.com/rmatcas99).
 * Almudena Delgado Moscoso - [Almudena188](https://github.com/Almudena188).
 *  
 
