@@ -1,1 +1,1 @@
-(media/git-push-has-merge-c)onflicts.jpg)
+(media/git-push-has-merge-conflicts.jpg)
