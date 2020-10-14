@@ -5,6 +5,7 @@
 * Almudena Delgado Moscoso - [Almudena188](https://github.com/Almudena188).
 * Antonio Jesús Trujillo Marín - [antoniotm22](https://github.com/antoniotm22).
 * Alejandro Molero Gómez - [Alemol](https://github.com/alemolamg).
+* Francisco Flores Lucena - [franciscofl12](https://github.com/franciscofl12).
 * Fran
 * DavidGarrido1400
 * CS Teacher @csteach3r
