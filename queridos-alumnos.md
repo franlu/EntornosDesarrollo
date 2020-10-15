@@ -9,5 +9,6 @@
 * Francisco Fernández - [FranciscoFer99](https://github.com/FranciscoFer99)
 * DavidGarrido1400
 * Pablo Angel Lopez Bonilla - [Pablolb98](https://github.com/Pablolb98).
-Sabrina Ojea Chapelet [SabrinaOC] (https://github.com/SabrinaOC)
+Sabrina Ojea Chapelet [SabrinaOC](https://github.com/SabrinaOC).
+Christian Díaz Ruiz [cdiarui525](https://github.com/cdiarui525).
 * CS Teacher @csteach3r
