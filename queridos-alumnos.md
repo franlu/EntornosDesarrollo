@@ -11,4 +11,5 @@
 * Pablo Angel Lopez Bonilla - [Pablolb98](https://github.com/Pablolb98).
 * Sabrina Ojea Chapelet - [SabrinaOC](https://github.com/SabrinaOC).
 * Christian Díaz Ruiz - [cdiazruiz525](https://github.com/cdiazruiz525).
+* David Parejo Aliaga - [davidpa01](https://github.com/davidpa01).
 * CS Teacher @csteach3r
