@@ -7,6 +7,7 @@
 * Alejandro Molero Gómez - [Alemol](https://github.com/alemolamg).
 * Francisco Flores Lucena - [franciscofl12](https://github.com/franciscofl12).
 * Francisco Fernández - [FranciscoFer99](https://github.com/FranciscoFer99)
+* Ángel Rodríguez Aguilera - [Angel-24](https://github.com/Angel-24).
 * DavidGarrido1400
 * Pablo Angel Lopez Bonilla - [Pablolb98](https://github.com/Pablolb98).
 * Sabrina Ojea Chapelet - [SabrinaOC](https://github.com/SabrinaOC).
