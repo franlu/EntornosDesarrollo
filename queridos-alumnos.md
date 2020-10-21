@@ -6,7 +6,7 @@ Alejandro Molero Gómez - Alemol .
 Francisco Flores Lucena - franciscofl12 .
 Francisco Fernández - FranciscoFer99
 Ángel Rodríguez Aguilera - Ángel-24 .
-DavidGarrido1400 [DavidGarrido1400] https://github.com/DavidGarrido1400 ).
+David Garrido García -DavidGarrido1400-.
 Pablo Angel Lopez Bonilla - Pablolb98 .
 Sabrina Ojea Chapelet - SabrinaOC .
 Christian Díaz Ruiz - cdiazruiz525 .
