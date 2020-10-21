@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Usuarios Github
 ----
 * Jesús Cabello Montiel - [zulit12](https://github.com/zulit12).
@@ -15,3 +16,22 @@
 * David Parejo Aliaga - [davidpa01](https://github.com/davidpa01).
 * Juan Linares Gallardo - [juanlinares181](https://github.com/juanlinares181).
 * CS Teacher @csteach3r
+=======
+Jesús Cabello Montiel - zulit12 .
+Rubén Mata Castro - rmatcas99 .
+Almudena Delgado Moscoso - Almudena188 .
+Antonio Jesús Trujillo Marín - antoniotm22 .
+Alejandro Molero Gómez - Alemol .
+Francisco Flores Lucena - franciscofl12 .
+Francisco Fernández - FranciscoFer99
+Ángel Rodríguez Aguilera - Ángel-24 .
+David Garrido García -DavidGarrido1400-.
+Pablo Angel Lopez Bonilla - Pablolb98 .
+Sabrina Ojea Chapelet - SabrinaOC .
+Christian Díaz Ruiz - cdiazruiz525 .
+David Parejo Aliaga - davidpa01 .
+Fabián Matilla Rodríguez - Fenrir-DC .
+David Padilla Aguilera - Davidpa2 .
+Profesor de CS @ csteach3r
+
+>>>>>>> 22b7e6365a5db72c7c55a1078d2ddcd0c9415ac8
