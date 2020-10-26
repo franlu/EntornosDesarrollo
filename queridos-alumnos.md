@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Usuarios Github
 ----
 * Jesús Cabello Montiel - [zulit12](https://github.com/zulit12).
@@ -18,24 +18,5 @@
 * Adrián Alhama Esojo - [adrialhama] (https://github.com/adrialhama/).
 * Elisea Serrano Jiménez - [Elisj02] (https://github.com/Elisj02).
 * Luis Flores Encabo - [lfloen2000] (https://github.com/lfloen2000).
+* Daniel Pérez Pedrosa - [danipp01] (https://github.com/daipp01).
 * CS Teacher @csteach3r
-=======
-Jesús Cabello Montiel - zulit12 .
-Rubén Mata Castro - rmatcas99 .
-Almudena Delgado Moscoso - Almudena188 .
-Antonio Jesús Trujillo Marín - antoniotm22 .
-Alejandro Molero Gómez - Alemol .
-Francisco Flores Lucena - franciscofl12 .
-Francisco Fernández - FranciscoFer99
-Ángel Rodríguez Aguilera - Ángel-24 .
-David Garrido García -DavidGarrido1400-.
-Pablo Angel Lopez Bonilla - Pablolb98 .
-Sabrina Ojea Chapelet - SabrinaOC .
-Christian Díaz Ruiz - cdiazruiz525 .
-David Parejo Aliaga - davidpa01 .
-Fabián Matilla Rodríguez - Fenrir-DC .
-David Padilla Aguilera - Davidpa2 .
-Adrián Alhama Esojo - adrialhama .
-Profesor de CS @ csteach3r
-
-
