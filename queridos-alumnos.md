@@ -19,4 +19,5 @@
 * Elisea Serrano Jiménez - [Elisj02] (https://github.com/Elisj02).
 * Luis Flores Encabo - [lfloen2000] (https://github.com/lfloen2000).
 * Daniel Pérez Pedrosa - [danipp01] (https://github.com/daipp01).
+* Valle Antonio López Romero - [Valle8] (https://github.com/Valle8).
 * CS Teacher @csteach3r
