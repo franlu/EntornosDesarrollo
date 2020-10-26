@@ -1,10 +1,6 @@
 <p align="center">
   <img src="./media/git-push-has-merge-conflicts.jpg"/>
   <img src="./EntornosDesarrollo/fun/media/HolaMundo01.jpeg"/> 
-</p>
-<p align="center">
-  <img src="./media/git.out.jpg"/>
-</p>
-<p align="center">
-  <img src="./media/java-phyton.png"/>
+  <img src="fun/media/git-out.jpg"/>
+  <img src="fun/media/java-python.png"/>
 </p>
