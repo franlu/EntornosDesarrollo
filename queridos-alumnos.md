@@ -16,6 +16,7 @@
 * David Parejo Aliaga - [davidpa01](https://github.com/davidpa01).
 * Juan Linares Gallardo - [juanlinares181](https://github.com/juanlinares181).
 * Adrián Alhama Esojo - [adrialhama] (https://github.com/adrialhama/).
+* Elisea Serrano Jiménez - [Elisj02] (https://github.com/Elisj02).
 * CS Teacher @csteach3r
 =======
 Jesús Cabello Montiel - zulit12 .
