@@ -20,4 +20,5 @@
 * Luis Flores Encabo - [lfloen2000] (https://github.com/lfloen2000).
 * Daniel Pérez Pedrosa - [danipp01] (https://github.com/daipp01).
 * Valle Antonio López Romero - [Valle8] (https://github.com/Valle8).
+* Jesus Guijarro Muñoz - [jesusgm1] (https://github.com/jesusgm1).
 * CS Teacher @csteach3r
