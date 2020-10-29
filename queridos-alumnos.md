@@ -24,4 +24,5 @@
 * Daniel Parejo Zafra - [DanielParejo] (https://github.com/DanielParejo).
 * Adrián Blancas Romero - [Ablarom99]  (https://github.com/Ablarom99).
 * Antonio Ruiz-Ruano Alcala-Zamora - [ruanox96] (https://github.com/ruanox96)
+* Cristóbal Velasco Vílchez - [cristobalvelasco8] (https://github.com/cristobalvelasco8)
 * CS Teacher @csteach3r
