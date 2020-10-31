@@ -9,7 +9,7 @@
 * Francisco Flores - [franciscofl12](https://github.com/franciscofl12).
 * Francisco Fernández - [FranciscoFer99](https://github.com/FranciscoFer99)
 * Ángel Rodríguez - [Angel-24](https://github.com/Angel-24).
-* DavidGarrido1400
+* David Garrido - [DavidGarrido1400](https://github.com/DavidGarrido1400)
 * Pablo Angel Lopez  - [Pablolb98](https://github.com/Pablolb98).
 * Sabrina Ojea - [SabrinaOC](https://github.com/SabrinaOC).
 * Christian Díaz - [cdiazruiz525](https://github.com/cdiazruiz525).
