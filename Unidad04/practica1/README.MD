@@ -15,4 +15,4 @@
 * Valle Antonio López Romero - [Valle8] (https://github.com/Valle8/JuegoTrivial.git)
 * Adrián Blancas Romero	- [Ablarom99] (https://github.com/Ablarom99/JuegoTrivial)
 * Sabrina Ojea Chapelet - [SabrinaOC] (https://github.com/SabrinaOC/JuegoTrivial.git).
-* Francisco Flores Lucena - [Franciscofl12] (https://github.com/franciscofl12/JuegoTrivial.git).
+* Francisco Flores Lucena - [Franciscofl12](https://github.com/franciscofl12/JuegoTrivial.git).
