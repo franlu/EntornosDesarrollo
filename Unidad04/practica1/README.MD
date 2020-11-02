@@ -1,4 +1,4 @@
-### Práctica 1
+﻿### Práctica 1
 ---
 
 [Esquema con los pasos a seguir](pasos-a-seguir.pdf)
@@ -18,3 +18,5 @@
 * Francisco Flores Lucena - [Franciscofl12](https://github.com/franciscofl12/JuegoTrivial.git).
 * Elisea Serrano Jiménez - [Elisj02] (https://github.com/Elisj02/Trivial.git).
 * Antonio Ruiz-Ruano Alcalá-Zamora - [ruanox96] (https://github.com/ruanox96/JuegoTrivial)
+* Daniel Parejo Zafra - [DanielParejo]
+(https://github.com/DanielParejo/JuegoTrivial.git)
