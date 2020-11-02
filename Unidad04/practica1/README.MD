@@ -23,3 +23,4 @@
 * David Garrido García - [DavidGarrido1400](https://github.com/DavidGarrido1400/TrivialFran.git).
 * Fabian Matilla Rodriguez -[Fenrir-DC](https://github.com/Fenrir-DC/Juegotrivial).
 * Juan Linares Gallardo -[juanlinares181](https://github.com/juanlinares181/Proyectotrivial.git).
+* Rubén Mata Castro -[rmatcas99](https://github.com/rmatcas99/JuegoTrivial).
