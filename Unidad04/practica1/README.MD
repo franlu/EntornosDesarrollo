@@ -11,3 +11,4 @@
 * Cristóbal Velasco - [cristobalvelasco8] (https://github.com/cristobalvelasco8/juegotrivial.git)
 * Christian Díaz - [cdiazruiz525](https://github.com/cdiazruiz525/JuegoTrivial.git)
 * Antonio Trujillo - [Antoniotm22](https://github.com/antoniotm22/TrivialSencilloED).
+* David Parejo -[davidpa01](https://github.com/davidpa01/JuegoTtivial.git)
