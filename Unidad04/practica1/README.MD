@@ -18,7 +18,8 @@
 * Francisco Flores Lucena - [Franciscofl12](https://github.com/franciscofl12/JuegoTrivial.git).
 * Elisea Serrano Jiménez - [Elisj02] (https://github.com/Elisj02/Trivial.git).
 * Antonio Ruiz-Ruano Alcalá-Zamora - [ruanox96] (https://github.com/ruanox96/JuegoTrivial)
-* Daniel Parejo Zafra - [DanielParejo]
-(https://github.com/DanielParejo/JuegoTrivial.git)
+* Daniel Parejo Zafra - [DanielParejo](https://github.com/DanielParejo/JuegoTrivial.git)
 * Adrián Alhama Esojo - [adrialhama](https://github.com/adrialhama/JuegoTrivial.git).
-*David Garrido García - [DavidGarrido1400](https://github.com/DavidGarrido1400/TrivialFran.git).
+* David Garrido García - [DavidGarrido1400](https://github.com/DavidGarrido1400/TrivialFran.git).
+* Fabian Matilla Rodriguez -[Fenrir-DC](https://github.com/Fenrir-DC/Juegotrivial).
+* Juan Linares Gallardo -[juanlinares181](https://github.com/juanlinares181/Proyectotrivial.git).
