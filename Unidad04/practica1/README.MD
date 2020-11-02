@@ -14,3 +14,4 @@
 * David Parejo -[davidpa01](https://github.com/davidpa01/JuegoTtivial.git)
 * Valle Antonio López Romero - [Valle8] (https://github.com/Valle8/JuegoTrivial.git)
 * Adrián Blancas Romero	- [Ablarom99] (https://github.com/Ablarom99/JuegoTrivial)
+* Sabrina Ojea Chapelet - [SabrinaOC] (https://github.com/SabrinaOC/JuegoTrivial.git).
