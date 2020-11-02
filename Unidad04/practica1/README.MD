@@ -27,3 +27,4 @@
 * Alejandro Molero Gómez -[AlemolAMG](https://github.com/alemolamg/JuegoTrivial_AlemolAMG).
 * Pablo Angel Lopez Bonilla - [Pablolb98](https://github.com/Pablolb98/Juegotribial.git).
 * Francisco Manuel Fernández Pino - [FranciscoFer99](https://github.com/FranciscoFer99/juegotrivial)
+* Jesús Burguillos Ojeda - [jesusbomoriles2016](https://github.com/jesusbomoriles2016/JuegoTrivial)
