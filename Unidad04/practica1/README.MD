@@ -16,3 +16,4 @@
 * Adrián Blancas Romero	- [Ablarom99] (https://github.com/Ablarom99/JuegoTrivial)
 * Sabrina Ojea Chapelet - [SabrinaOC] (https://github.com/SabrinaOC/JuegoTrivial.git).
 * Francisco Flores Lucena - [Franciscofl12](https://github.com/franciscofl12/JuegoTrivial.git).
+* Elisea Serrano Jiménez - [Elisj02] (https://github.com/Elisj02/Trivial.git).
