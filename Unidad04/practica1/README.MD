@@ -20,3 +20,4 @@
 * Antonio Ruiz-Ruano Alcalá-Zamora - [ruanox96] (https://github.com/ruanox96/JuegoTrivial)
 * Daniel Parejo Zafra - [DanielParejo]
 (https://github.com/DanielParejo/JuegoTrivial.git)
+* Adrián Alhama Esojo - [adrialhama](https://github.com/adrialhama/JuegoTrivial.git).
