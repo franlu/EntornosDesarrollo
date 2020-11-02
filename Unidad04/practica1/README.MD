@@ -21,3 +21,4 @@
 * Daniel Parejo Zafra - [DanielParejo]
 (https://github.com/DanielParejo/JuegoTrivial.git)
 * Adrián Alhama Esojo - [adrialhama](https://github.com/adrialhama/JuegoTrivial.git).
+*David Garrido García - [DavidGarrido1400](https://github.com/DavidGarrido1400/TrivialFran.git).
