@@ -6,5 +6,6 @@
   <img width="475" height="300" src="./media/clicks.jpg"/>
   <img width="475" height="300" src="./media/putin_walk-.gif"/> 
   <img width="475" height="300" src="./media/pythonlover.jpg"/> 
-  <img width="475" height="300" src="./media/meme.png"/> 
+  <img width="475" height="300" src="./media/meme.png"/>
+  <img width="475" height="300" src="./media/memeStack.png"/> 
 </p>
