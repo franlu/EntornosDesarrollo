@@ -22,7 +22,7 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Antonio Ruiz-Ruano Alcalá-Zamora - [ruanox96](https://github.com/ruanox96/JuegoTrivial)
 * Daniel Parejo Zafra - [DanielParejo](https://github.com/DanielParejo/JuegoTrivial.git)
 * Adrián Alhama Esojo - [adrialhama](https://github.com/adrialhama/JuegoTrivial.git).
-* David Garrido García - [DavidGarrido1400](https://github.com/DavidGarrido1400/TrivialFran.git).
+* David Garrido - [DavidGarrido1400](https://github.com/DavidGarrido1400/TrivialFran.git).
 * Fabian Matilla Rodriguez -[Fenrir-DC](https://github.com/Fenrir-DC/Juegotrivial).
 * Juan Linares Gallardo -[juanlinares181](https://github.com/juanlinares181/Proyectotrivial.git).
 * Rubén Mata Castro -[rmatcas99](https://github.com/rmatcas99/JuegoTrivial).
