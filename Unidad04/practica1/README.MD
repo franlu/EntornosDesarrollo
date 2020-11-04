@@ -31,4 +31,5 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Francisco Manuel Fernández - [FranciscoFer99](https://github.com/FranciscoFer99/juegotrivial)
 * Jesús Burguillos  - [jesusbomoriles2016](https://github.com/jesusbomoriles2016/JuegoTrivial)
 * Luis Flores  - [lfloen2000](https://github.com/lfloen2000/JuegoTrivial_lfloen2000)
+* Jesús Cabello - [zulit12](https://github.com/zulit12/JuegoTrivial.git)
 
