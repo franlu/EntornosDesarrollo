@@ -18,7 +18,7 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Adrián Blancas Romero	- [Ablarom99](https://github.com/Ablarom99/JuegoTrivial)
 * Sabrina Ojea Chapelet - [SabrinaOC](https://github.com/SabrinaOC/JuegoTrivial.git).
 * Francisco Flores Lucena - [Franciscofl12](https://github.com/franciscofl12/JuegoTrivial.git).
-* Elisea Serrano Jiménez - [Elisj02](https://github.com/Elisj02/Trivial.git).
+* Elisea Serrano - [Elisj02](https://github.com/Elisj02/Trivial.git).
 * Antonio Ruiz-Ruano Alcalá-Zamora - [ruanox96](https://github.com/ruanox96/JuegoTrivial)
 * Daniel Parejo Zafra - [DanielParejo](https://github.com/DanielParejo/JuegoTrivial.git)
 * Adrián Alhama Esojo - [adrialhama](https://github.com/adrialhama/JuegoTrivial.git).
