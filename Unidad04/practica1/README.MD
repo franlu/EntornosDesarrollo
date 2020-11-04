@@ -15,19 +15,19 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Antonio Trujillo - [Antoniotm22](https://github.com/antoniotm22/TrivialSencilloED).
 * David Parejo -[davidpa01](https://github.com/davidpa01/JuegoTtivial.git)
 * Valle Antonio López Romero - [Valle8](https://github.com/Valle8/JuegoTrivial.git)
-* Adrián Blancas Romero	- [Ablarom99](https://github.com/Ablarom99/JuegoTrivial)
-* Sabrina Ojea Chapelet - [SabrinaOC](https://github.com/SabrinaOC/JuegoTrivial.git).
-* Francisco Flores Lucena - [Franciscofl12](https://github.com/franciscofl12/JuegoTrivial.git).
+* Adrián Blancas 	- [Ablarom99](https://github.com/Ablarom99/JuegoTrivial)
+* Sabrina Ojea  - [SabrinaOC](https://github.com/SabrinaOC/JuegoTrivial.git).
+* Francisco Flores  - [Franciscofl12](https://github.com/franciscofl12/JuegoTrivial.git).
 * Elisea Serrano - [Elisj02](https://github.com/Elisj02/Trivial.git).
-* Antonio Ruiz-Ruano Alcalá-Zamora - [ruanox96](https://github.com/ruanox96/JuegoTrivial)
-* Daniel Parejo Zafra - [DanielParejo](https://github.com/DanielParejo/JuegoTrivial.git)
-* Adrián Alhama Esojo - [adrialhama](https://github.com/adrialhama/JuegoTrivial.git).
+* Antonio Ruiz-Ruano  - [ruanox96](https://github.com/ruanox96/JuegoTrivial)
+* Daniel Parejo  - [DanielParejo](https://github.com/DanielParejo/JuegoTrivial.git)
+* Adrián Alhama  - [adrialhama](https://github.com/adrialhama/JuegoTrivial.git).
 * David Garrido - [DavidGarrido1400](https://github.com/DavidGarrido1400/TrivialFran.git).
-* Fabian Matilla Rodriguez -[Fenrir-DC](https://github.com/Fenrir-DC/Juegotrivial).
-* Juan Linares Gallardo -[juanlinares181](https://github.com/juanlinares181/Proyectotrivial.git).
-* Rubén Mata Castro -[rmatcas99](https://github.com/rmatcas99/JuegoTrivial).
+* Fabian Matilla  -[Fenrir-DC](https://github.com/Fenrir-DC/Juegotrivial).
+* Juan Linares  -[juanlinares181](https://github.com/juanlinares181/Proyectotrivial.git).
+* Rubén Mata  -[rmatcas99](https://github.com/rmatcas99/JuegoTrivial).
 * Alejandro Molero -[AlemolAMG](https://github.com/alemolamg/JuegoTrivial_AlemolAMG).
-* Pablo Angel Lopez Bonilla - [Pablolb98](https://github.com/Pablolb98/Juegotribial.git).
+* Pablo Angel Lopez  - [Pablolb98](https://github.com/Pablolb98/Juegotribial.git).
 * Francisco Manuel Fernández - [FranciscoFer99](https://github.com/FranciscoFer99/juegotrivial)
-* Jesús Burguillos Ojeda - [jesusbomoriles2016](https://github.com/jesusbomoriles2016/JuegoTrivial)
-* Luis Flores Encabo - [lfloen2000](https://github.com/lfloen2000/JuegoTrivial_lfloen2000)
+* Jesús Burguillos  - [jesusbomoriles2016](https://github.com/jesusbomoriles2016/JuegoTrivial)
+* Luis Flores  - [lfloen2000](https://github.com/lfloen2000/JuegoTrivial_lfloen2000)
