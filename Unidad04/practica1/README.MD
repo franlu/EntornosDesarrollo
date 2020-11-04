@@ -28,6 +28,6 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Rubén Mata Castro -[rmatcas99](https://github.com/rmatcas99/JuegoTrivial).
 * Alejandro Molero Gómez -[AlemolAMG](https://github.com/alemolamg/JuegoTrivial_AlemolAMG).
 * Pablo Angel Lopez Bonilla - [Pablolb98](https://github.com/Pablolb98/Juegotribial.git).
-* Francisco Manuel Fernández Pino - [FranciscoFer99](https://github.com/FranciscoFer99/juegotrivial)
+* Francisco Manuel Fernández - [FranciscoFer99](https://github.com/FranciscoFer99/juegotrivial)
 * Jesús Burguillos Ojeda - [jesusbomoriles2016](https://github.com/jesusbomoriles2016/JuegoTrivial)
 * Luis Flores Encabo - [lfloen2000](https://github.com/lfloen2000/JuegoTrivial_lfloen2000)
