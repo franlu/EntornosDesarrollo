@@ -5,4 +5,5 @@
   <img width="475" height="300" src="./media/java-python.png"/>
   <img width="475" height="300" src="./media/clicks.jpg"/>
   <img width="475" height="300" src="./media/putin_walk-.gif"/> 
+  <img width="475" height="300" src="./media/pythonlover.jpg"/> 
 </p>
