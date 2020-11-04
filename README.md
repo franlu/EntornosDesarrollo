@@ -10,7 +10,6 @@ Materiales para el módulo Entornos de Desarrollo perteneciente al primer curso 
 
 Listado de [alumn@s](queridos-alumnos.md) con sus respectivos perfiles en Github para el curso 20/21.
 
-
 ### Licencia
 
 Free Software, Hell Yeah!
