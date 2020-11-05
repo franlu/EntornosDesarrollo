@@ -22,5 +22,5 @@
   <img width="475" height="300" src="./media/thecode.jpg"/> 
   <img width="475" height="300" src="./media/memeCPP.jpg"/>   
   <img width="475" height="300" src="./media/node_modules_github.jpg"/>   
-
+  <img width="475" height="300" src="./media/blackOrWhite.jpg"/>
 </p>
