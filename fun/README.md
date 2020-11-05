@@ -11,5 +11,5 @@
   <img width="475" height="300" src="./media/memeStack.png"/>
   <img width="475" height="300" src="./media/meme_java.jpeg"/>
   <img width="475" height="300" src="./media/meme_GitHub.jpg"/>
-  <img width="475" height="475" src="./media/actualfunny.jpg"/>    
+  <img width="550" height="350" src="./media/actualfunny.jpg"/>    
 </p>
