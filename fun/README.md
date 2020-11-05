@@ -24,14 +24,14 @@
   <img width="475" height="300" src="./media/99d.jpg"/>
   <img width="475" height="300" src="./media/thecode.jpg"/> 
   <img width="475" height="300" src="./media/memeCPP.jpg"/>   
-  <img width="475" height="300" src="./github.jpg"/> 
+  <img width="475" height="300" src="./media/github.jpg"/> 
   <img width="475" height="300" src="./media/node_modules_github.jpg"/>   
-  <img width="475" height="300" src="./media/mi meme.jpg"/>
-  <img width="475" height="300" src="./images.jpg"/>
+  <img width="475" height="300" src="./media/mi_meme.jpg"/>
+  <img width="475" height="300" src="./media/images.jpg"/>
   <img width="475" height="300" src="./media/memeCPP.jpg"/> 
   <img width="475" height="300" src="./media/meme.jpg"/>  
-  <img width="475" height="300" src="./media/expectativa-realidad.jpg"/>
-  <img width="475" height="300" src="./images.jpg"/>
-  <img width="475" height="300" src="./sinnombre.jpg"/>
-   <img width="475" height="300" src="./images.github.jpg"/>
+  <img width="475" height="300" src="./media/expectativa-realidad.png"/>
+  <img width="475" height="300" src="./media/images.jpg"/>
+  <img width="475" height="300" src="./media/sinnombre.jpg"/>
+  <img width="475" height="300" src="./media/images.github.jpg"/>
 </p>
