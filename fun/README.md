@@ -20,5 +20,5 @@
   <img width="475" height="300" src="./media/GitMerge.jpg"/>
   <img width="475" height="300" src="./media/99d.jpg"/>
   <img width="475" height="300" src="./media/thecode.jpg"/> 
-  <img width="475" height="300" src="./media/memecpp.jpg"/>   
+  <img width="475" height="300" src="./media/memeCPP.jpg"/>   
 </p>
