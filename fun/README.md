@@ -22,5 +22,6 @@
   <img width="475" height="300" src="./media/99d.jpg"/>
   <img width="475" height="300" src="./media/thecode.jpg"/> 
   <img width="475" height="300" src="./media/memeCPP.jpg"/> 
-  <img width="475" height="300" src="./media/meme.jpg"/>   <
+  <img width="475" height="300" src="./media/meme.jpg"/>  
+  <img width="475" height="300" src="./media/expectativa-realidad.jpg"/>
 </p>
