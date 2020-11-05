@@ -3,10 +3,8 @@
   <img width="475" height="300" src="./media/HolaMundo01.jpeg"/>
   <img width="475" height="300" src="./media/git-out.jpg"/>
   <img width="475" height="300" src="./media/java-python.png"/>
-<<<<<<< HEAD
   <img width="475" height="300" src="./media/clicks.jpg"/> 
   <img width="475" height="300" src="./linux,windows,mac.jpg"/> 
-=======
   <img width="475" height="300" src="./media/clicks.jpg"/>
   <img width="475" height="300" src="./media/putin_walk-.gif"/> 
   <img width="475" height="300" src="./media/pythonlover.jpg"/> 
@@ -17,5 +15,4 @@
   <img width="475" height="300" src="./media/meme_GitHub.jpg"/>
   <img width="550" height="350" src="./media/actualfunny.jpg"/>
   <img width="475" height="300" src="./media/awela.jpeg"/>    
->>>>>>> 1a2fd2af6bf61a824802bae6fab3511932f7ede7
 </p>
