@@ -1,4 +1,5 @@
 <p align="center">
+  <img width="760" height="525" src="./media/pana.jpg"/>
   <img width="760" height="525" src="./media/GitMerge.jpg"/>
   <img width="760" height="525" src="./media/99d.jpg"/>
   <img width="760" height="525" src="./media/HolaMundo01.jpeg"/>
@@ -26,7 +27,6 @@
   <img width="760" height="525" src="./media/meme_java.jpeg"/>
   <img width="760" height="525" src="./media/memilloProgr.jpg"/>
   <img width="760" height="525" src="./media/node_modules_github.jpg"/>
-  <img width="760" height="525" src="./media/pana.jpg"/>
   <img width="760" height="525" src="./media/putin_walk-.gif"/>
   <img width="760" height="525" src="./media/pythonlover.jpg"/>
   <img width="760" height="525" src="./media/thecode.jpg"/>
