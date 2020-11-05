@@ -11,7 +11,6 @@
   <img width="760" height="525" src="./media/expectativa-realidad.png"/>
   <img width="760" height="525" src="./media/git hub.jpg"/>
   <img width="760" height="525" src="./media/git-out.jpg"/>
-  <img width="760" height="525" src="./media/git-push-has-merge-conflicts.jpg"/>
   <img width="760" height="525" src="./media/github.jpg"/>
   <img width="760" height="525" src="./media/githubmeme.jpg"/>
   <img width="760" height="525" src="./media/gitmeme.png"/>
