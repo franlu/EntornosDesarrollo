@@ -1,0 +1,11 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>410</x><y>190</y><w>210</w><h>90</h></coordinates><panel_attributes>Perro
+--
+Chip
+Nombre
+Fecha Nacimiento
+Raza</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>120</x><y>190</y><w>210</w><h>70</h></coordinates><panel_attributes>Dueño
+--
+DNI
+Nombre
+Fecha Alta
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>290</x><y>360</y><w>100</w><h>30</h></coordinates><panel_attributes>Tiene</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>190</x><y>250</y><w>120</w><h>140</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;100;120</additional_attributes></element><element><id>Relation</id><coordinates><x>380</x><y>270</y><w>150</w><h>120</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;100;130;10</additional_attributes></element></diagram>
