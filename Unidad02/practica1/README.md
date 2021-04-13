@@ -22,3 +22,4 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Fabian Matilla Rodriguez -[Fenrir-DC](https://github.com/Fenrir-DC/1DAWEntornos.git
 * Jesus Guijarro Muñoz -[jesusgm1](https://github.com/jesusgm1/EntornosDesarrollo2/tree/main/Plugins)
 * Antonio Jesús Trujillo Marín -[Antoniotm22](https://github.com/antoniotm22/PracticaED/blob/master/src/aplicacionSuma.java)
+* Jesus Burguillos Ojeda - [jesusbomoriles2016](https://github.com/jesusbomoriles2016/EntornosDesarrolloJBO)
