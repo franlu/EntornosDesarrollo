@@ -19,4 +19,5 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Alejandro Molero Gómez -[AlemolAMG](https://github.com/alemolamg/EntornosDesarrollo1DAW/tree/master/Unidad02)
 * Adrián Blancas Romero -[Ablarom99](https://github.com/Ablarom99/EntornosDesarrolloABR/tree/main/src/unidad02)
 * David Padilla Aguilera -[davidpa2](https://github.com/davidpa2/1DAWEntornosDesarrollo.git)
-* Fabian Matilla Rodriguez -[Fenrir-DC](https://github.com/Fenrir-DC/1DAWEntornos.git)
+* Fabian Matilla Rodriguez -[Fenrir-DC](https://github.com/Fenrir-DC/1DAWEntornos.git
+* Jesus Guijarro Muñoz -[jesusgm1](https://github.com/jesusgm1/EntornosDesarrollo2/tree/main/Plugins)
