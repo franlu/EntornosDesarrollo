@@ -14,6 +14,7 @@
 * Sabrina Ojea - [SabrinaOC](https://github.com/SabrinaOC).
 * Christian Díaz - [cdiazruiz525](https://github.com/cdiazruiz525).
 * David Parejo - [davidpa01](https://github.com/davidpa01).
+* David Padilla Aguilera [davidpa2](https://github.com/davidpa2).
 * Juan Linares - [juanlinares181](https://github.com/juanlinares181).
 * Adrián Alhama - [adrialhama](https://github.com/adrialhama/).
 * Elisea Serrano - [Elisj02](https://github.com/Elisj02).
