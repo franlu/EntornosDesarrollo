@@ -16,3 +16,4 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Christian Díaz Ruiz - [cdiazruiz525](https://github.com/cdiazruiz525/1DAW_EntornosDesarrollo_ChristianDiazRuiz.git)
 * Sabrina Ojea Chapelet - [SabrinaOC](https://github.com/SabrinaOC/SabrinaEjerciciosEntornosDesarrollo.git)
 * Daniel Parejo Zafra -[DanielParejo](https://github.com/DanielParejo/EntornosDesarrollo/tree/master/src/unidad2_EDI)
+* Alejandro Molero Gómez -[AlemolAMG](https://github.com/alemolamg/EntornosDesarrollo1DAW/tree/master/Unidad02)
