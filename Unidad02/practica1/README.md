@@ -15,7 +15,7 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Pablo Angel Lopez - [Pablolb98](https://github.com/Pablolb98/EntornosDesarrollo/tree/master/src/practicaObligatoriaUnidad2)
 * Christian Díaz Ruiz - [cdiazruiz525](https://github.com/cdiazruiz525/1DAW_EntornosDesarrollo_ChristianDiazRuiz.git)
 * Sabrina Ojea Chapelet - [SabrinaOC](https://github.com/SabrinaOC/SabrinaEjerciciosEntornosDesarrollo.git)
-* Daniel Parejo Zafra -[DanielParejo](https://github.com/DanielParejo/EntornosDesarrollo/tree/master/src/unidad2_EDI)
+* Daniel Parejo Zafra -[DanielParejo](https://github.com/DanielParejo/EntornosDesarrollo)
 * Alejandro Molero Gómez -[AlemolAMG](https://github.com/alemolamg/EntornosDesarrollo1DAW/tree/master/Unidad02)
 * Adrián Blancas Romero -[Ablarom99](https://github.com/Ablarom99/EntornosDesarrolloABR/tree/main/src/unidad02)
 * David Padilla Aguilera -[davidpa2](https://github.com/davidpa2/1DAWEntornosDesarrollo.git)
