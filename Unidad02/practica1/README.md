@@ -26,3 +26,4 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Antonio Ruiz-Ruano Alcalá-Zamora - [ruanox96] https://github.com/ruanox96/EntornosDesarrolloARRAZ/tree/main/src/Ejercicios
 * Ruben Mata Castro -[rmatcas99](https://github.com/rmatcas99/EDRuben/tree/main/src/unidad2)
 * Francisco Flores Lucena - [franciscofl12](https://github.com/franciscofl12/EntornosDesarrollo)
+* Jesús Burguillos Ojeda - [jesusbomoriles2016] https://github.com/jesusbomoriles2016/EntornosDesarrolloJBO
