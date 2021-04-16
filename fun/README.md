@@ -1,4 +1,5 @@
 <p align="center">
+  <img width="760" height="525" src="./media/Debian.jpeg"/>
   <img width="760" height="525" src="./media/pana.jpg"/>
   <img width="760" height="525" src="./media/GitMerge.jpg"/>
   <img width="760" height="525" src="./media/99d.jpg"/>
