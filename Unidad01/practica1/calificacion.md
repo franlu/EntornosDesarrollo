@@ -9,6 +9,12 @@ Se deben describir todas las fases del ciclo de vida del software de forma detal
 - Pruebas.
 - Documentación, explotación y mantenimiento.
 
+Sintetiza el análisis de requerimientos del sistema para nuestro cliente. Plantea el diseño y determina el modelo de ciclo de vida más idóneo para esta aplicación.
+
+Planifica la codificación, indicando el lenguaje de programación y las herramientas que usarías para la obtención del código fuente, objeto y ejecutable, explicando por qué eliges esas herramientas.
+
+Planifica las restantes fases del ciclo de vida, indicando en cada una el objetivo que persigues y cómo lo harías.
+
 
 #### Criterios de puntuación
 - Elaboración correcta de análisis de requisitos, diseño y elección de modelo de ciclo de vida: 3 puntos.
