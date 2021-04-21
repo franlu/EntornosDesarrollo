@@ -13,7 +13,7 @@ Aspectos a tener en cuenta a la hora de elaborar el documento final.
   - Índice.
   - Desarrollo del proyecto. Un apartado para cada fase del ciclo de vida:
     - Análisis.
-      - Descripción del proceso.
+      - Descripción del proceso. Herramientas software utilizadas en el proceso.
       - Requisitos:
         - Funcionales.
         - No Funcionales.
@@ -29,6 +29,7 @@ Aspectos a tener en cuenta a la hora de elaborar el documento final.
       - Opinión sobre la práctica realiza.
   - Bibliografía.
     - Para enlaces a web, indicar la fecha de la última consulta que se hizo en esa web.
+  - Anexos.
 
 - Diseño.
   - Encabezado de página con el nombre de la empresa que crea el proyecto. El pie de página de contener el número de página.
