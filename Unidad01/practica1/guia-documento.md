@@ -17,7 +17,7 @@ Aspectos a tener en cuenta a la hora de elaborar el documento final.
       - Requisitos:
         - Funcionales.
         - No Funcionales.
-      - Contenido del documento ERS
+      - Entrevista, Brainstorming, prototipo, casos de uso, Diagrama de flujo de datos (DFD) y Diagrama E/R
     - Diseño.
     - Codificación.
     - Pruebas.
