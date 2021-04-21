@@ -28,6 +28,7 @@ Aspectos a tener en cuenta a la hora de elaborar el documento final.
       - Dificultades encontradas para realizar el proyecto.
       - Opinión sobre la práctica realiza.
   - Bibliografía.
+    - Para enlaces a web, indicar la fecha de la última consulta que se hizo en esa web.
 
 - Diseño.
   - Encabezado de página con el nombre de la empresa que crea el proyecto. El pie de página de contener el número de página.
