@@ -14,10 +14,10 @@ Aspectos a tener en cuenta a la hora de elaborar el documento final.
   - Desarrollo del proyecto. Un apartado para cada fase del ciclo de vida:
     - Análisis.
       - Descripción del proceso. Objetivos. Planificación. Herramientas software utilizadas en el proceso.
-      - Requisitos:
-        - Funcionales.
-        - No Funcionales.
-      - Entrevista, Brainstorming, prototipo, casos de uso, Diagrama de flujo de datos (DFD) y Diagrama E/R
+        - Requisitos:
+          - Funcionales.
+          - No Funcionales.
+        - Entrevista, Brainstorming, prototipo, casos de uso, Diagrama de flujo de datos (DFD) y Diagrama E/R
     - Diseño.
     - Codificación.
     - Pruebas.
