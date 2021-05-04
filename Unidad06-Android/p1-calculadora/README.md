@@ -9,3 +9,4 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Fabian Matilla Rodriguez - [FenrirDC](https://github.com/Fenrir-DC/calculadoraAndroidStudio).
 * Elisea Serrano Jiménez - [Elisj02](https://github.com/Elisj02/EntornosDesarrollo/tree/master/Calculadora/src).+
 * Jesus Guijarro Muñoz - [jesusgm1](https://github.com/jesusgm1/Calculadora/tree/main/CalculadoraJesus)-
+* Christian Díaz Ruiz [cdiazruiz525](https://github.com/cdiazruiz525/MinCalc_ChristianDiazRuiz.git).
