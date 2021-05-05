@@ -12,3 +12,5 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Christian Díaz Ruiz - [cdiazruiz525](https://github.com/cdiazruiz525/MinCalc_ChristianDiazRuiz.git).
 * Antonio Jesús Trujillo Marín - [antoniotm22](https://github.com/antoniotm22/PracticaED/blob/master/README.md).
 * Alejandro Molero Gómez - [AlemolAMG](https://github.com/alemolamg/calculadoraAndroid).
+* David Garrido García - [DavidGarrido1400](https://github.com/DavidGarrido1400/Calculadora.git).
+
