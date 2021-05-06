@@ -7,7 +7,7 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Ángel Rodríguez Aguilera - [Angel-24](https://github.com/Angel-24/Entornos-de-Desarrollo/blob/main/src/AplicacionCalculadoraAndroidStudioAngelRodriguezAguilera.zip).
 * Francisco Manuel Fernández Pino - [FranciscoFer99](https://github.com/FranciscoFer99/Calculator).
 * Fabian Matilla Rodriguez - [FenrirDC](https://github.com/Fenrir-DC/calculadoraAndroidStudio).
-* Elisea Serrano Jiménez - [Elisj02](https://github.com/Elisj02/EntornosDesarrollo/tree/master/Calculadora/src).
+* Elisea Serrano Jiménez - [Elisj02](https://github.com/Elisj02/EntornosDesarrollo/tree/master/Calculadora).
 * Jesus Guijarro Muñoz - [jesusgm1](https://github.com/jesusgm1/Calculadora-Prueba).
 * Christian Díaz Ruiz - [cdiazruiz525](https://github.com/cdiazruiz525/MinCalc_ChristianDiazRuiz.git).
 * Antonio Jesús Trujillo Marín - [antoniotm22](https://github.com/antoniotm22/PracticaED/blob/master/README.md).
