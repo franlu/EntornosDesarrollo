@@ -18,3 +18,4 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Antonio Ruiz-Ruano Alcalá-Zamora - [ruanox96](https://github.com/ruanox96/EntornosDesarrolloARRAZ/tree/main/calculadora/src).
 * Pablo Angel Lopez Bonilla - [pablolb98](https://github.com/Pablolb98/CalculadoraAndroidStudio.git).
 * Cristobal Velasco Vilchez - [Cristobalvelasco8](https://github.com/cristobalvelasco8/EntornosDesarrollo/tree/main/calculadora/src).
+* Daniel Parejo Zafra - [DanielParejo](https://github.com/DanielParejo/calculadora).
