@@ -15,4 +15,4 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * David Garrido García - [DavidGarrido1400](https://github.com/DavidGarrido1400/Calculadora.git).
 * Sabrina Ojea Chapelet - [SabrinaOC](https://github.com/SabrinaOC/SabrinaEjerciciosEntornosDesarrollo.git).
 * Valle Antonio López Romero -[Valle8](https://github.com/Valle8/calculadora.git).
-
+* Daniel Pérez Pedrosa - [danipp01](https://github.com/danipp01/Calculadora-Android.git).
