@@ -13,5 +13,6 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * Antonio Jesús Trujillo Marín - [antoniotm22](https://github.com/antoniotm22/PracticaED/blob/master/README.md).
 * Alejandro Molero Gómez - [AlemolAMG](https://github.com/alemolamg/calculadoraAndroid).
 * David Garrido García - [DavidGarrido1400](https://github.com/DavidGarrido1400/Calculadora.git).
-* Sabrina Ojea Chapelet - [SsabrinaOC](https://github.com/SabrinaOC/SabrinaEjerciciosEntornosDesarrollo.git).
+* Sabrina Ojea Chapelet - [SabrinaOC](https://github.com/SabrinaOC/SabrinaEjerciciosEntornosDesarrollo.git).
+* Valle Antonio López Romero -[Valle8](https://github.com/Valle8/calculadora.git).
 
