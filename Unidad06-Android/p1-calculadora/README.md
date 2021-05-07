@@ -22,3 +22,4 @@ Para entregar la práctica se añade en este fichero el nombre del alumno, su no
 * David Parejo Aliaga -[davidpa01](https://github.com/davidpa01/CalculadoraAndroid.git).
 * David Padilla Aguilera -[davidpa2](https://github.com/davidpa2/AndroidCalculator).
 * Adrián Blancas Romero -[Ablarom99](https://github.com/Ablarom99/QuickMathsCalculator.git).
+* Juan Linares Gallardo -[juanlinares181](https://github.com/juanlinares181/Calculadora).
