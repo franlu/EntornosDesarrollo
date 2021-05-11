@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github.com/franlu/EntornosDesarrollo/blob/master/fun/media/menu1.jpg" width="400" height="650">
-<img src="https://github.com/franlu/EntornosDesarrollo/blob/master/fun/media/menu2.jpg" width="600" height="650">
+<img src="https://github.com/franlu/EntornosDesarrollo/blob/master/fun/media/menu2.jpg" width="800" height="650">
   <img width="760" height="525" src="./media/Debian.jpeg"/>
   <img width="760" height="525" src="./media/pana.jpg"/>
   <img width="760" height="525" src="./media/GitMerge.jpg"/>
