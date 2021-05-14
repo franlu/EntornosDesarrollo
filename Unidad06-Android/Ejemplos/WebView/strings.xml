@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="btn_enviar">Visitar</string>
+    <string name="txtv_url">Introduce url</string>
+</resources>
