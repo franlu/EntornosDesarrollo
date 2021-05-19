@@ -4,7 +4,7 @@
 Para entregar la práctica se añade en este fichero el nombre y primer apellido del alumno, su nombre de usuario en Github y un enlace al repositorio que se ha utilizado para resolver la práctica.
 
 * Almudena Delgado - [Almudena188](https://github.com/Almudena188/Calculadora-Sencilla).
-* Ángel Rodríguez - [Angel-24](https://github.com/Angel-24/Entornos-de-Desarrollo/blob/main/src/AplicacionCalculadoraAndroidStudioAngelRodriguezAguilera.zip).
+* Ángel Rodríguez - [Angel-24](https://github.com/Angel-24/Entornos-de-Desarrollo/tree/main/src/AplicacionCalculadoraAndroidStudio).
 * Francisco Manuel Fernández - [FranciscoFer99](https://github.com/FranciscoFer99/Calculator).
 * Fabian Matilla - [FenrirDC](https://github.com/Fenrir-DC/calculadoraAndroidStudio).
 * Elisea Serrano - [Elisj02](https://github.com/Elisj02/EntornosDesarrollo/tree/master/Calculadora).
