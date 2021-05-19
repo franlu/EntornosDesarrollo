@@ -5,3 +5,4 @@ Para entregar la práctica se añade en este fichero el **nombre y primer apelli
 
 * Christian Díaz - [cdiazruiz525](https://github.com/cdiazruiz525/LinkUp_ChristianDiazRuiz.git).
 * Almudena Delgado - [Almudena188](https://github.com/Almudena188/AppMenuAndroidStudio).
+* Sabrina Ojea - [SabrinaOC](https://github.com/SabrinaOC/SabrinaEjerciciosEntornosDesarrollo/tree/master/src/androidStudio/recursos).
