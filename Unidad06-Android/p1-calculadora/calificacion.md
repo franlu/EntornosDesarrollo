@@ -21,8 +21,9 @@
   - Elementos extra que aporten valor a la app. (0,5 puntos)
 
 * Documentación de la práctica (Fichero README) en el repositorio. Estructura del repositorio. Diseño.**2 puntos**
-  - El texto esta estructurado en apartados. Se desarrolla de forma coherente y ordenada. (1 punto)
+  - El texto esta estructurado en apartados. Se desarrolla de forma coherente y ordenada. (0,75 puntos)
   - Incluye Webgrafía/Bibliografía. (0,5 puntos)
+  - Utiliza de forma apropiada el formato Markdown para enriquecer el documento. (0,25 puntos)
   - Utiliza imágenes para complementar la documentación. Imágenes de tamaño proporcional. (0,25 puntos)
   - Incluye un video-gif donde se muestra el funcionamiento de la app. (0,25 puntos)
 
