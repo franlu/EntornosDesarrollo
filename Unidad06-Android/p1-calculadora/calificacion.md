@@ -9,3 +9,6 @@
 * Extras: decimales, limpiar pantalla, cualquier elemento que aporte valor a la app **1 punto**
 
 * Documentación de la práctica (Fichero README) en el repositorio. Estructura del repositorio. Diseño.**2 puntos**
+
+
+Calificación: ** ** puntos.
